@@ -1,0 +1,3 @@
+заяц, волк, медведь, заяц, медведь, гриб, листок, list, list, home, forest, home
+&&& 7 43630 волк медведь . program, homr, home, HOMe
+data, grep, git, python, gitlab,

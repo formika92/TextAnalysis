@@ -1,0 +1,9 @@
+заяц, медведь,, листок, list, home, forest,
+&&& 7 43630 волк медведь, games, 1, abracadabra, cat, dogs, cat, cats, forests, list, заяц
+гамма-излучение, квант, фотон, альфа, тестирование, бета, множество, set, sets, бродкаст, ip,
+union, объединение, sql, postgresql, mysql, elasticsearch, search, math, математика, функция, класс, хост,
+домен, сеть, сокет, https, post, get, put, dict, словарь, модуль
+program, homr, home, HOMe
+union, объединение, sql, postgresql, mysql, https, post, get, put, dict, словарь, модуль
+elasticsearch, search, math, математика, функция, класс, хост, объединение, sql,
+data, grep, git, python, gitlab,

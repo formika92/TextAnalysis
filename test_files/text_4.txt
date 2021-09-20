@@ -1,0 +1,2 @@
+заяц, cat union, объединение, sql, postgresql, mysql, elasticsearch, search, math, математика, функция, класс, хост,
+сеть, сокет,

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TF and ITF data</title>
+</head>
+<body>
+<p>Данные TF и ITF</p>
+<h4>Предупреждение: в расчете участвуют слова, совпадение которых найдено в других документах</h4>
+<table>
+    <tr>
+        <th>Word</th>
+        <th>TF</th>
+        <th>ITF</th>
+   </tr>
+    {% for item in object_list %}
+    <tr>
+        <td>{{ item.0 }}</td>
+        <td>{{ item.1.0 }}</td>
+        <td>{{ item.1.1 }}</td>
+    </tr>
+    {% endfor %}
+</table>
+{% include 'text_load/pagination.html' %}
+</body>
+</html>
